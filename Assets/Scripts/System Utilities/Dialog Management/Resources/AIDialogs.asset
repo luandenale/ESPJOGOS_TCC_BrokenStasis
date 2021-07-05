@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d35a1500bfd4bd4d9d7409ca87de09d, type: 3}
+  m_Name: AIDialogs
+  m_EditorClassIdentifier: 
+  GameDialogs:
+  - dialogName: ACT_01_LOCKED_DOOR
+    conversation: {fileID: 11400000, guid: 1270a8182c130f14aa47db7677a1c321, type: 2}
+  - dialogName: ACT_01_WAKE_UP_MESSAGE
+    conversation: {fileID: 11400000, guid: adf8e2278bd98bd4da0068d63df1ce70, type: 2}

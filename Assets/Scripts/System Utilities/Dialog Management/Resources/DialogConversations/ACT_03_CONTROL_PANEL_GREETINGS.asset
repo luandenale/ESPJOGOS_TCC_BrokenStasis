@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 554a8c164dcc78b44993e6d496eeed47, type: 3}
+  m_Name: ACT_03_CONTROL_PANEL_GREETINGS
+  m_EditorClassIdentifier: 
+  conversationTexts:
+  - speaker: 0
+    text: Security protocol activated.
+  - speaker: 0
+    text: All access doors are locked.
+  - speaker: 0
+    text: Welcome to command bridge, Dr. Viktor.
+  - speaker: 0
+    text: 'Ship health status: ...30%.'
+  - speaker: 0
+    text: Please wait for Fix Tasks Report [FTR].
+  - speaker: 0
+    text: Coming soon...

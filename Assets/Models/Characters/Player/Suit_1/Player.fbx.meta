@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: ca7634d5fcf1c3f44bab66b78e1ec5ce
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -1404131028178849717
+    second: Armature.012|AGACHADO EM PE
+  - first:
+      74: 4548150605589147201
+    second: Armature.012|AGACHADO IDLE
+  - first:
+      74: 8289538300635342213
+    second: Armature.012|ANALISAR ALTO
+  - first:
+      74: -653097403772346507
+    second: Armature.012|ANALISAR CHAO
+  - first:
+      74: 5478790854527629726
+    second: Armature.012|ANDAR AGACHADO
+  - first:
+      74: 4921965155972781013
+    second: Armature.012|ANDAR DE COSTAS
+  - first:
+      74: -7565044874410199858
+    second: Armature.012|APERTAR BOTAO
+  - first:
+      74: -7195683640595692704
+    second: Armature.012|CAMINHADA 1
+  - first:
+      74: 1557026055154628068
+    second: Armature.012|CAMINHAR 1
+  - first:
+      74: -5433752432705835118
+    second: Armature.012|CAMINHAR INICIO
+  - first:
+      74: -8973270327071551499
+    second: Armature.012|CORRER
+  - first:
+      74: -1254222088323537642
+    second: Armature.012|EM PE AGACHADO
+  - first:
+      74: 8901658768741218142
+    second: Armature.012|HIT 1
+  - first:
+      74: -8509685974962180359
+    second: Armature.012|HIT 2
+  - first:
+      74: -3950227148295224789
+    second: Armature.012|HIT 3
+  - first:
+      74: -8663249787948049104
+    second: Armature.012|IDLE
+  - first:
+      74: 7974601594272631574
+    second: Armature.012|IDLE 2
+  - first:
+      74: -3600902211602080277
+    second: Armature.012|MACHUCADO 1
+  - first:
+      74: 374378301883986586
+    second: Armature.012|MACHUCADO 2
+  - first:
+      74: 1856833717046085400
+    second: Armature.012|MORRER
+  - first:
+      74: -4806161627265411046
+    second: Armature.012|PEGAR NO CHAO
+  - first:
+      74: 3042732134230412850
+    second: Armature.012|RASTEJAR
+  - first:
+      74: -677829290822236358
+    second: Armature.012|SNEAK
+  - first:
+      74: -3648548999674247383
+    second: Armature.012|SUSTO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TEXTURE ROSTO.013
+    second: {fileID: -8944088275848197826, guid: e7268b20193a2274882fd47852f6e3b2,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TEXTURE ROUPA.012
+    second: {fileID: 2100000, guid: c506d26a5e1b8954c875610e3b74e150, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

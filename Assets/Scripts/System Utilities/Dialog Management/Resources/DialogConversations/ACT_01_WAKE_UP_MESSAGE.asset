@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 554a8c164dcc78b44993e6d496eeed47, type: 3}
+  m_Name: ACT_01_WAKE_UP_MESSAGE
+  m_EditorClassIdentifier: 
+  conversationTexts:
+  - speaker: 0
+    text: 'Oxygen level: .......................88.3%.'
+  - speaker: 0
+    text: 'Gravitational field: .......................stable.'
+  - speaker: 0
+    text: 'Propulsion speed: .......................stable.'
+  - speaker: 0
+    text: 'Energy level: .......................5%.  [CRITICAL]
+
+      Operating
+      on auxiliar energy generator.'
+  - speaker: 0
+    text: Urgency manual repair by human reanimation protocol [UMRHRP] activated.
+  - speaker: 0
+    text: 'Welcome back to life, Dr. Viktor.
+
+      You might experience nausea and
+      other symptoms associated with stasis sickness in the following hours.'
+  - speaker: 0
+    text: Please engage with manual repair protocol UMRHRP procedures.

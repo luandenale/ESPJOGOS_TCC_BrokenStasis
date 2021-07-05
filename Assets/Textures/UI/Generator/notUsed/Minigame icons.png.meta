@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: 21b5937ecdb5e4e3c84ca01cb4179136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2361465835783825819
+    second: Minigame icons_0
+  - first:
+      213: 6795774858406469095
+    second: Minigame icons_1
+  - first:
+      213: -5945904872692663511
+    second: Minigame icons_2
+  - first:
+      213: 3070856303517497340
+    second: Minigame icons_3
+  - first:
+      213: 3843889762334166395
+    second: Minigame icons_4
+  - first:
+      213: 5908224750789719736
+    second: Minigame icons_5
+  - first:
+      213: -1100500089410832531
+    second: Minigame icons_6
+  - first:
+      213: -7893236671553466371
+    second: Minigame icons_7
+  - first:
+      213: -5196661223313698832
+    second: Minigame icons_8
+  - first:
+      213: -4770236188231226363
+    second: Minigame icons_9
+  - first:
+      213: 3269187362160522429
+    second: Minigame icons_10
+  - first:
+      213: 3423703030574392722
+    second: Minigame icons_11
+  - first:
+      213: 2615204599170097886
+    second: Minigame icons_12
+  - first:
+      213: 5034375553436661653
+    second: Minigame icons_13
+  - first:
+      213: 3216763861407237828
+    second: Minigame icons_14
+  - first:
+      213: -2731142627971517544
+    second: Minigame icons_15
+  - first:
+      213: 5205073025461047914
+    second: Minigame icons_16
+  - first:
+      213: 3541861341515397860
+    second: Minigame icons_17
+  - first:
+      213: 8621841682171177697
+    second: Minigame icons_18
+  - first:
+      213: 7597237532210318431
+    second: Minigame icons_19
+  - first:
+      213: 3457216838659247255
+    second: Minigame icons_20
+  - first:
+      213: -836676013982296708
+    second: Minigame icons_21
+  - first:
+      213: -8909351434076766320
+    second: Minigame icons_22
+  - first:
+      213: -5698056251136849964
+    second: Minigame icons_23
+  - first:
+      213: 5884731824128032125
+    second: Minigame icons_24
+  - first:
+      213: -4437997976645062392
+    second: Minigame icons_25
+  - first:
+      213: -3796955358772002377
+    second: Minigame icons_26
+  - first:
+      213: -279077431025407366
+    second: Minigame icons_27
+  - first:
+      213: 945463568616949623
+    second: Minigame icons_28
+  - first:
+      213: -164706195723195494
+    second: Minigame icons_29
+  - first:
+      213: -5038374313523576106
+    second: Minigame icons_30
+  - first:
+      213: -6441719378801094811
+    second: Minigame icons_31
+  - first:
+      213: -139693523298146124
+    second: Minigame icons_32
+  - first:
+      213: 1925200189073851443
+    second: Minigame icons_33
+  - first:
+      213: 3639797221563002560
+    second: Minigame icons_34
+  - first:
+      213: -8524715029004678516
+    second: Minigame icons_35
+  - first:
+      213: -229272508578031122
+    second: Minigame icons_36
+  - first:
+      213: 8425423712256811968
+    second: Minigame icons_37
+  - first:
+      213: 969393967409973834
+    second: Minigame icons_38
+  - first:
+      213: -3324165162816489854
+    second: Minigame icons_39
+  - first:
+      213: -7425513053712822214
+    second: Minigame icons_40
+  - first:
+      213: 5822699652064417030
+    second: Minigame icons_41
+  - first:
+      213: 7586856073929424964
+    second: Minigame icons_42
+  - first:
+      213: 1572618103790123458
+    second: Minigame icons_43
+  - first:
+      213: -8367622555977039338
+    second: Minigame icons_44
+  - first:
+      213: -8469447252898882837
+    second: Minigame icons_45
+  - first:
+      213: -8186758777703063269
+    second: Minigame icons_46
+  - first:
+      213: 6598176402095853548
+    second: Minigame icons_47
+  - first:
+      213: -3007365776038570627
+    second: Minigame icons_48
+  - first:
+      213: -4682099508439468192
+    second: Minigame icons_49
+  - first:
+      213: 7984366377229985724
+    second: Minigame icons_50
+  - first:
+      213: 9141775290396944398
+    second: Minigame icons_51
+  - first:
+      213: -1389734513767476800
+    second: Minigame icons_52
+  - first:
+      213: -8733589484260895005
+    second: Minigame icons_53
+  - first:
+      213: -2113081274257378016
+    second: Minigame icons_54
+  - first:
+      213: -4608808954060937935
+    second: Minigame icons_55
+  - first:
+      213: 893206472551830366
+    second: Minigame icons_56
+  - first:
+      213: -202083506184168294
+    second: Minigame icons_57
+  - first:
+      213: -682818698667486538
+    second: Minigame icons_58
+  - first:
+      213: 2638426439294339887
+    second: Minigame icons_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minigame icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ad138aac95c020800000000000000
+      internalID: 2361465835783825819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed19d86a317f4e50800000000000000
+      internalID: 6795774858406469095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb3e26507eb7da0800000000000000
+      internalID: -5945904872692663511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7fd67b98fdd9a20800000000000000
+      internalID: 3070856303517497340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d40bf7f5d385530800000000000000
+      internalID: 3843889762334166395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6fdf39b1b3ef150800000000000000
+      internalID: 5908224750789719736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b167dffc3ab0f0800000000000000
+      internalID: -1100500089410832531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_7
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff08ff3117957290800000000000000
+      internalID: -7893236671553466371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_8
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff07568620c1e7b0800000000000000
+      internalID: -5196661223313698832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_9
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1042.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca3c9e577bccdb0800000000000000
+      internalID: -4770236188231226363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db436c1c59c7e5d20800000000000000
+      internalID: 3269187362160522429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295a0d944cf638f20800000000000000
+      internalID: 3423703030574392722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2608c1ab21b4420800000000000000
+      internalID: 2615204599170097886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b08084e1bdd540800000000000000
+      internalID: 5034375553436661653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60e7550bd34ac20800000000000000
+      internalID: 3216763861407237828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_15
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893b4d40048091ad0800000000000000
+      internalID: -2731142627971517544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_16
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d298c6522c3840800000000000000
+      internalID: 5205073025461047914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_17
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab6b0ef18372130800000000000000
+      internalID: 3541861341515397860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_18
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2877545fe6a770800000000000000
+      internalID: 8621841682171177697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_19
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 834.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c49ad984fce6960800000000000000
+      internalID: 7597237532210318431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c88cbc5608aff20800000000000000
+      internalID: 3457216838659247255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75de7229978364f0800000000000000
+      internalID: -836676013982296708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fbcb01310ab5480800000000000000
+      internalID: -8909351434076766320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d74bc877007ce0b0800000000000000
+      internalID: -5698056251136849964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d76975a64caa150800000000000000
+      internalID: 5884731824128032125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_25
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8013b209a501962c0800000000000000
+      internalID: -4437997976645062392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_26
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b10164e7318e4bc0800000000000000
+      internalID: -3796955358772002377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_27
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae6ea1e84802cf0800000000000000
+      internalID: -279077431025407366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_28
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7778c7b3b16fe1d00800000000000000
+      internalID: 945463568616949623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_29
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 626.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bec9f6698d6bdf0800000000000000
+      internalID: -164706195723195494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d289fc9149141ab0800000000000000
+      internalID: -5038374313523576106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f8fcbca5a6a96a0800000000000000
+      internalID: -6441719378801094811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8246e0b75bf0ef0800000000000000
+      internalID: -139693523298146124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334034f2f5fa7ba10800000000000000
+      internalID: 1925200189073851443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce67bdd948238230800000000000000
+      internalID: 3639797221563002560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_35
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a0eb4d8d022b980800000000000000
+      internalID: -8524715029004678516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_36
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee991714ed571dcf0800000000000000
+      internalID: -229272508578031122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_37
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3683bf93e1de470800000000000000
+      internalID: 8425423712256811968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_38
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ac0e26daaf37d00800000000000000
+      internalID: 969393967409973834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_39
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 418.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286389785613ed1d0800000000000000
+      internalID: -3324165162816489854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30db6e383743f890800000000000000
+      internalID: -7425513053712822214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605171bcb726ec050800000000000000
+      internalID: 5822699652064417030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400490076de94960800000000000000
+      internalID: 7586856073929424964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c932c355df03d510800000000000000
+      internalID: 1572618103790123458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61241707e9b30eb80800000000000000
+      internalID: -8367622555977039338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_45
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beadd07b89a767a80800000000000000
+      internalID: -8469447252898882837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_46
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a239544ac26e80800000000000000
+      internalID: -8186758777703063269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_47
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc944aa7e619b50800000000000000
+      internalID: 6598176402095853548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_48
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75dd89a2c0b346d0800000000000000
+      internalID: -3007365776038570627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_49
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 210.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0673f6ccd47d50fb0800000000000000
+      internalID: -4682099508439468192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ad57caea2ece60800000000000000
+      internalID: 7984366377229985724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ad80013c1ede70800000000000000
+      internalID: 9141775290396944398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11ac6a2dba6bce0800000000000000
+      internalID: -1389734513767476800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_53
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6da88f2ae0cc680800000000000000
+      internalID: -8733589484260895005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025fb52d6c3dca2e0800000000000000
+      internalID: -2113081274257378016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_55
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ee8fbca83a00c0800000000000000
+      internalID: -4608808954060937935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_56
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53188bed8e456c00800000000000000
+      internalID: 893206472551830366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_57
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c5dee2f1e023df0800000000000000
+      internalID: -202083506184168294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_58
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b21ee3e2042686f0800000000000000
+      internalID: -682818698667486538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minigame icons_59
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2.5
+        width: 208.4
+        height: 208.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b43281ed29d9420800000000000000
+      internalID: 2638426439294339887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 496b2d1947a064f6f868b7921c672fc6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
